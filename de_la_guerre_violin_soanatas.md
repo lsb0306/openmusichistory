@@ -134,7 +134,7 @@ Sonata No. 6 contains the greatest number of movements among the six violin sona
 ## 🎻What is a violin?  
 **The violin** is a string instrument with four strings, played by drawing a bow across the strings or by plucking them with the fingers.
 Among string instruments, it has the highest pitch range, and its tone is clear and delicate.  
-The violin plays a central role in *orchestras*, *chamber music*, and *solo performances* across a wide range of musical genres.  
+The violin plays a central role in **orchestras**, **chamber music**, and **solo performances** across a wide range of musical genres.  
 *During the Baroque era*, violins used gut strings and a short, lightweight bow, producing an elegant and ornamented style of performance.  
 *In the Classical period*, improvements in the instrument's structure and bow design allowed for a more refined and balanced sound.  
 *In the Romantic era*, the violin became a powerful tool for emotional expression, with virtuosic techniques gaining prominence and the instrument's musical significance greatly expanding.  
